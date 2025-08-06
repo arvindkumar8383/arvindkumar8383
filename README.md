@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Brain Tumor Detection using Deep Learning**
 - 🌱 I’m learning **React**, **Next.js**, and **Docker**
 - 💬 Ask me about anything related to Python, Git, or Laravel
-- 📫 Reach me at: arvindkumar8383@gmail.com
+- 📫 Reach me at: sk1962716@gmail.com
 - 😄 Fun fact: I love building tech that impacts lives!
 
 ---
