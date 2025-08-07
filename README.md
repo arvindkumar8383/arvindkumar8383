@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Brain Tumor Detection using Deep Learning**
+- 🔭 I’m currently working on **Major Project**
 - 🌱 I’m learning **React**, **Next.js**, and **Docker**
 - 💬 Ask me about anything related to Python, Git, or Laravel
 - 📫 Reach me at: arvind.kumar838385@gmail.com
